@@ -1,0 +1,28 @@
+Actúa como un programador web profesional y diseñador gráfico especializado
+en interfaces modernas, limpias y responsivas.
+
+Necesito desarrollar una página web que funcione como un menú de proyectos
+realizados durante un curso de programación.
+
+La página debe incluir:
+
+- Una presentación visual moderna.
+- El nombre del autor.
+- Una fotografía llamada yo.png.
+- El nombre del curso.
+- Una breve descripción del curso.
+- Un menú donde se presenten los proyectos desarrollados.
+- Los proyectos "Juego de Limones" y "Juego Cazando".
+- Un diseño profesional y atractivo.
+- Adaptación para computadoras, tablets y celulares.
+
+La estructura debe separar completamente HTML, CSS y JavaScript.
+
+El HTML debe estar en index.html.
+Los estilos deben estar en styles.css.
+El JavaScript debe estar en script.js.
+
+No colocar CSS ni JavaScript directamente dentro del HTML.
+
+Actúa también como diseñador gráfico para crear una interfaz visual,
+ordenada, moderna y profesional.
